@@ -2,7 +2,6 @@
 #include <Windows.h>
 #include <vector>
 #include <math.h>
-#include <chrono>
 
 #define PI 3.14159265359
 
